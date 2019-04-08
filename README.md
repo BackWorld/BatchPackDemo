@@ -1,15 +1,15 @@
 # BatchPackDemo
 BatchPackDemo
 
-###要求：
+### 要求：
 - Xcode7.0+
 
-###实现：
+### 实现：
 - 批量快速自动打包生产.ipa安装包
 - 替换每个ipa中的AppIcon等图片、音视频资源
 - 修改bundle id和bundle display name等配置
 
-###用法：
+### 用法：
 1. 安装ruby
 简书：http://www.jianshu.com/p/6c0758430dc0
 
@@ -25,7 +25,7 @@ BatchPackDemo
 cd 到你的iOS工程目录
 ./auto_build.sh
 ```
-###脚本解释：
+### 脚本解释：
 `auto_build.sh`
 
 ``` ruby
@@ -135,16 +135,16 @@ end
 
 ```
 
-###最终结果
+### 结果
 
 ![导出的ipa](http://upload-images.jianshu.io/upload_images/1334681-3fdcfbcc2664288b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###参考
+### 参考
 - http://blog.csdn.net/u013896628/article/details/53943043
 
 - http://www.cnblogs.com/oc-bowen/p/6109166.html
 
-###简书
+### 简书
 http://www.jianshu.com/p/5e6ce6323f9b
 
 > 如果对你有帮助，别忘了点个❤️哦。
